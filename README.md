@@ -10,14 +10,9 @@ $ npm install
 $ npm run dev
 ```
 
-![plot](./resources/screenshots/Screenshot 2024-08-08 194332.jpg)
-
-![plot](./resources/screenshots/Screenshot 2024-08-08 194347.jpg)
-
-![plot](./resources/screenshots/Screenshot 2024-08-08 194410.jpg)
-
-![plot](./resources/screenshots/Screenshot 2024-08-08 194517.jpg)
-
-![plot](./resources/screenshots/Screenshot 2024-08-08 195322.jpg)
-
-![plot](./resources/screenshots/Screenshot 2024-08-08 195357.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08194332.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08194347.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08194410.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08194517.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08195322.jpg)
+![plot](./resources/screenshots/Screenshot2024-08-08195357.jpg)
