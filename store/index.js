@@ -1,14 +1,12 @@
-
 export const state = () => ({
-  product: null
+    product: null
 });
 
 export const mutations = {
-  clearProductPayload(state){
-    state.product = null;
-  },
-  setProductPayload(state, product){
-    console.log({"store product": product});
-    state.product = product;
-  }
+    clearProductPayload(state) {
+        state.product = null;
+    },
+    setProductPayload(state, product) {
+        state.product = product;
+    }
 }
